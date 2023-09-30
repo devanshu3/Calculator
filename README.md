@@ -39,7 +39,3 @@ Add more advanced features, such as trigonometric functions and support for pare
 
 ## Author
 devanshu3
-
-## Contributing
-
-If you would like to contribute to this project, please feel free to fork the repository and create a pull request. All contributions are welcome!
