@@ -1,4 +1,4 @@
-# Basic Calculator Using Python (GUI Based)
+## Basic Calculator Using Python (GUI Based)
 
 This project demonstrates the creation of a basic calculator application with a graphical user interface (GUI) using Python and PyQt5. The calculator allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -36,6 +36,9 @@ Basic arithmetic operations (+, -, *, /) ,Decimal support, Error handling for in
 ## Future Work
 
 Add more advanced features, such as trigonometric functions and support for parentheses, Improve the user interface, Add documentation and tests.
+
+## Author
+devanshu3
 
 ## Contributing
 
